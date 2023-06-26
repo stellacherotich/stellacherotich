@@ -13,12 +13,14 @@ I love exploring and deriving insights from complex datasets to drive data-infor
 
 ## 📚 Education
 
-- Nano-degree in Data Science, Moringa School, 2023
+- Certification in Data Science, Moringa School, 2023
 - Bachelor of Social Science in Environment and Development, Ritsumeikan Asia Pacific University, 2017-2021
 
 ## 🚀 Projects
 
 - British Airways Sentiment Analysis and Predictive Model
+- Twitter Sentiment Analysis for Apple and Google
+- Customer Churn Predictive Model for a Telecommunication company
 
   
 ## 📝 Blog Posts
