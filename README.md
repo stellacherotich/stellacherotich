@@ -4,7 +4,7 @@ I'm a passionate data scientist with expertise in **machine learning**, **data a
 
 I love exploring and deriving insights from complex datasets to drive data-informed decisions.
 
-## 🧑‍💻 Technical Skills
+## 👩🏾‍💻 Technical Skills
 
 - **Programming Languages:** Python (NumPy, Pandas, Scikit-learn), SQL
 - **Machine Learning:** Regression, Classification, Clustering, Natural Language Processing (NLP)
