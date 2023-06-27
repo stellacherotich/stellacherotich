@@ -32,3 +32,6 @@ I love exploring and deriving insights from complex datasets to drive data-infor
 - LinkedIn: [Stella's LinkedIn](https://www.linkedin.com/in/stella-cherotich/)
 
 Feel free to explore my repositories to learn more about my work as a data scientist!
+
+
+![](https://komarev.com/ghpvc/?username=stellacherotich&color=BFA1B5&style=flat-square)
