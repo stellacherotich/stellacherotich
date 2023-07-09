@@ -25,7 +25,9 @@ I love exploring and deriving insights from complex datasets to drive data-infor
   
 ## 📝 Blog Posts
 
-- My journey into Data Science: [Link to the Blog Post](https://stellacherotich.medium.com/my-journey-into-data-science-2900c568de29)
+- My journey into Data Science: [Link to the Post](https://stellacherotich.medium.com/my-journey-into-data-science-2900c568de29)
+
+-  Mastering Customer Retention in the Telecom Landscape: [Link to the Post](https://medium.com/@stellacherotich/churn-no-more-mastering-customer-retention-in-the-telecom-landscape-b43e5b7ed136)
 
 ## 📫 Connect with Me
 
